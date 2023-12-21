@@ -22,7 +22,7 @@ browser. In this example there is no authorization.
 * Write this in your terminal:
 
 ```sh
-git clone https://github.com/martyr00/Rust-rocket-mongoDB-token-auth-REST-API-boilerplate.git
+git clone https://github.com/codecraft26/rust-jwt-auth-mogodb
 ```
 * After open the project in your IDE
 
